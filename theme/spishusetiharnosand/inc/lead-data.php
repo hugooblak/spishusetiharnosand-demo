@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Spishuset I Härnösand',
+	'bransch'        => 'Byggföretag',
 	'telefon'        => '070-628 79 14',
 	'telefon_tel'    => '+46706287914',
 	'ort'            => 'Härnösand',
